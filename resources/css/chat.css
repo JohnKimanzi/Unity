@@ -1,0 +1,28 @@
+.anyClass {
+    height:150px;
+    overflow-y: scroll;
+  }
+
+  #chat-content{
+    /* margin-top: 4px; */
+    color: #f7f;
+    float: left;
+    font-family: oswald;
+    font-size: 18px;
+    margin: 2px 0 0 5px;
+  }
+  #chat_bubble{
+      float:left;
+
+      border-radius: 50%;
+
+  }
+  #chat_btn{
+    position: fixed; /* Stay in place */
+    z-index: 10000; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }

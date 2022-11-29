@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:E. Africa Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=kairaalex9@gmail.com;RSVP=TRUE:mailto:kairaalex9@gmail.com
+CLASS:PUBLIC
+CREATED:20211007T173810Z
+DESCRIPTION: \n\n \n\n-----Original Appointment-----\nFrom: Newish Koech <n
+	ewish.koech@technobraingroup.com <mailto:newish.koech@technobraingroup.com
+	> > \nSent: Thursday\, 7 October\, 2021 19:05\nTo: Newish Koech\; Mark Hak
+	im\; 'Jonathan Oswald'\; 'Abel Pamatz'\; alex.kaira@technobrainbpo.com <ma
+	ilto:alex.kaira@technobrainbpo.com> \; 'Chris Motari'\nCc: Vinay Subbarama
+	iah\; Bharat Makani\nSubject: ULG Unity CRM Dev Progress Update\nWhen: Thu
+	rsday\, 7 October\, 2021 21:00-22:00 (UTC+03:00) Nairobi.\nWhere: Microsof
+	t Teams Meeting\n\n \n\n \n\n_____________________________________________
+	___________________________________ \n\nMicrosoft Teams meeting \n\nJoin o
+	n your computer or mobile app \n\nClick here to join the meeting <https://
+	teams.microsoft.com/l/meetup-join/19%3ameeting_YWI3MDg1MjAtMzAxZS00YmEwLWI
+	wNjctNzdkZjM1OTI2Yjk3%40thread.v2/0?context=%7b%22Tid%22%3a%2204fae374-d56
+	f-4cc2-8528-ab25d35d6e67%22%2c%22Oid%22%3a%229ddde8dd-1e15-4ab1-b10f-e6768
+	6bc0530%22%7d>  \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meetin
+	g options <https://teams.microsoft.com/meetingOptions/?organizerId=9ddde8d
+	d-1e15-4ab1-b10f-e67686bc0530&tenantId=04fae374-d56f-4cc2-8528-ab25d35d6e6
+	7&threadId=19_meeting_YWI3MDg1MjAtMzAxZS00YmEwLWIwNjctNzdkZjM1OTI2Yjk3@thr
+	ead.v2&messageId=0&language=en-US>  \n\n__________________________________
+	______________________________________________ \n\n \n\nThis email\, its a
+	ttachments and any rights attached hereto is confidential\, private and in
+	tended for the addressee only. If you are not the intended recipient and r
+	eceived this email by mistake\, kindly notify the sender\, and delete it i
+	mmediately. Unauthorized use of this email is prohibited and unlawful. The
+	 Company accepts no liability whatsoever for any loss or damages whatsoeve
+	r and howsoever incurred or suffered resulting or arising from the use of 
+	this email or its attachments. The Company does not warrant the integrity 
+	of this email nor that it is free of errors\, viruses\, interception or in
+	terference. Use of "Techno Brain" content\, trademarks without the prior w
+	ritten consent is prohibited. \n\n
+DTEND;TZID="E. Africa Standard Time":20211007T220000
+DTSTAMP:20211007T160249Z
+DTSTART;TZID="E. Africa Standard Time":20211007T210000
+LAST-MODIFIED:20211007T173810Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Newish Koech":mailto:newish.koech@technobraingroup.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:FW: ULG Unity CRM Dev Progress Update
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000A07EB237ADBBD701000000000000000
+	0100000007715AB2B7392C548AE62603B2E3CDE7F
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=us-ascii"><meta name=Generator con
+	tent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definition
+	s */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 
+	3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 
+	2 4\;}\n@font-face\n	{font-family:Verdana\;\n	panose-1:2 11 6 4 3 5 4 4 2 
+	4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 2
+	 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2 11 7 2
+	 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div
+	.MsoNormal\n	{margin:0in\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\
+	n	font-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-
+	style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\na:vi
+	sited\, span.MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	color:#954F
+	72\;\n	text-decoration:underline\;}\np.msonormal0\, li.msonormal0\, div.ms
+	onormal0\n	{mso-style-name:msonormal\;\n	mso-margin-top-alt:auto\;\n	margi
+	n-right:0in\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	font-si
+	ze:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\nspan.EmailStyle18\n	{m
+	so-style-type:personal\;\n	font-family:"Verdana"\,sans-serif\;\n	color:win
+	dowtext\;\n	font-weight:normal\;\n	font-style:normal\;\n	text-decoration:n
+	one none\;}\nspan.EmailStyle19\n	{mso-style-type:personal-reply\;\n	font-f
+	amily:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso
+	-style-type:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{siz
+	e:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{
+	page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefault
+	s v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xm
+	l>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:s
+	hapelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vlink=
+	"#954F72" style='word-wrap:break-word'><div class=WordSection1><p class=Ms
+	oNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><di
+	v><p class=MsoNormal>-----Original Appointment-----<br><b>From:</b> Newish
+	 Koech &lt\;<a href="mailto:newish.koech@technobraingroup.com">newish.koec
+	h@technobraingroup.com</a>&gt\; <br><b>Sent:</b> Thursday\, 7 October\, 20
+	21 19:05<br><b>To:</b> Newish Koech\; Mark Hakim\; 'Jonathan Oswald'\; 'Ab
+	el Pamatz'\; <a href="mailto:alex.kaira@technobrainbpo.com">alex.kaira@tec
+	hnobrainbpo.com</a>\; 'Chris Motari'<br><b>Cc:</b> Vinay Subbaramaiah\; Bh
+	arat Makani<br><b>Subject:</b> ULG Unity CRM Dev Progress Update<br><b>Whe
+	n:</b> Thursday\, 7 October\, 2021 21:00-22:00 (UTC+03:00) Nairobi.<br><b>
+	Where:</b> Microsoft Teams Meeting<o:p></o:p></p></div><p class=MsoNormal>
+	<o:p>&nbsp\;</o:p></p><p class=MsoNormal><span style='font-size:8.0pt\;fon
+	t-family:"Verdana"\,sans-serif'><o:p>&nbsp\;</o:p></span></p><div><div><p 
+	class=MsoNormal><span style='color:#5F5F5F'>______________________________
+	__________________________________________________</span> <o:p></o:p></p><
+	/div><div><div style='margin-top:.25in\;margin-bottom:15.0pt'><p class=Mso
+	Normal><span style='font-size:18.0pt\;font-family:"Segoe UI"\,sans-serif\;
+	color:#252424'>Microsoft Teams meeting</span><span style='font-family:"Seg
+	oe UI"\,sans-serif\;color:#252424'> <o:p></o:p></span></p></div><div style
+	='margin-bottom:15.0pt'><div><p class=MsoNormal><b><span style='font-size:
+	10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Join on your co
+	mputer or mobile app</span></b><b><span style='font-family:"Segoe UI"\,san
+	s-serif\;color:#252424'> <o:p></o:p></span></b></p></div><p class=MsoNorma
+	l><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href=
+	"https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWI3MDg1MjAtMzAxZS
+	00YmEwLWIwNjctNzdkZjM1OTI2Yjk3%40thread.v2/0?context=%7b%22Tid%22%3a%2204f
+	ae374-d56f-4cc2-8528-ab25d35d6e67%22%2c%22Oid%22%3a%229ddde8dd-1e15-4ab1-b
+	10f-e67686bc0530%22%7d" target="_blank"><span style='font-size:10.5pt\;fon
+	t-family:"Segoe UI Semibold"\,sans-serif\;color:#6264A7'>Click here to joi
+	n the meeting</span></a> <o:p></o:p></span></p></div><div style='margin-to
+	p:15.0pt\;margin-bottom:.25in'><p class=MsoNormal><span style='font-family
+	:"Segoe UI"\,sans-serif\;color:#252424'><a href="https://aka.ms/JoinTeamsM
+	eeting" target="_blank"><span style='font-size:10.5pt\;color:#6264A7'>Lear
+	n More</span></a> | <a href="https://teams.microsoft.com/meetingOptions/?o
+	rganizerId=9ddde8dd-1e15-4ab1-b10f-e67686bc0530&amp\;tenantId=04fae374-d56
+	f-4cc2-8528-ab25d35d6e67&amp\;threadId=19_meeting_YWI3MDg1MjAtMzAxZS00YmEw
+	LWIwNjctNzdkZjM1OTI2Yjk3@thread.v2&amp\;messageId=0&amp\;language=en-US" t
+	arget="_blank"><span style='font-size:10.5pt\;color:#6264A7'>Meeting optio
+	ns</span></a> <o:p></o:p></span></p></div></div></div><div><p class=MsoNor
+	mal><span style='color:#5F5F5F'>__________________________________________
+	______________________________________</span> <o:p></o:p></p></div><p clas
+	s=MsoNormal><span style='font-size:8.0pt\;font-family:"Verdana"\,sans-seri
+	f'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal>This email\, its attach
+	ments and any rights attached hereto is confidential\, private and intende
+	d for the addressee only. If you are not the intended recipient and receiv
+	ed this email by mistake\, kindly notify the sender\, and delete it immedi
+	ately. Unauthorized use of this email is prohibited and unlawful. The Comp
+	any accepts no liability whatsoever for any loss or damages whatsoever and
+	 howsoever incurred or suffered resulting or arising from the use of this 
+	email or its attachments. The Company does not warrant the integrity of th
+	is email nor that it is free of errors\, viruses\, interception or interfe
+	rence. Use of &quot\;Techno Brain&quot\; content\, trademarks without the 
+	prior written consent is prohibited. <o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+X-MS-OLK-SENDER;CN="Chris Motari":mailto:chris.motari@technobrainbpo.com
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

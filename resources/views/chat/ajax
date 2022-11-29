@@ -1,0 +1,47 @@
+var user_id = $(chat_with).find('option:selected').val();
+        
+        $('#chat_content').html("");
+        $.ajax({
+            type: 'GET', //THIS NEEDS TO BE GET
+            url: "chat_post/"+user_id,
+            
+            dataType: 'json',
+            
+            success: function (data) {
+                $.each(data.chosen_chat,function(key,chats){
+                    // if(chats.)
+                    $('#chat_content').append("<link rel='stylesheet' href='../public/css/chat.css' type='text/css'><div class='chat'  id='my_chat'>\
+                    <div class='chat-body'>\
+                        <div class='chat-bubble'>\
+                            <div class='chat-content'>\
+                            <p id='msg'>"+chats.chat+"\
+                            </p>\
+                            <span class='chat_time' id='chat_time'>"+chats.created_at+"</span>\
+                            </div>\
+                            <div class='chat-action-btns'>\
+                            <!--<ul>\
+                            <li><a href='#' class='share-msg' title='Share'><i class='fa fa-share-alt'></i></a></li>\
+                            <li><a href='#' class='edit-msg'><i class='fa fa-pencil'></i></a></li>\
+                            <li><a href='#' class='del-msg'><i class='fa fa-trash-o'></i></a></li>\
+                            </ul>-->\
+                            </div>\
+                            </div>\
+                        </div>\
+                    </div>"
+                    );
+                });
+            }
+        
+
+             ,
+            error:function(){ 
+                console.log(data);
+            }
+
+        
+
+
+            });
+        
+      
+        });

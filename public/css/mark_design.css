@@ -1,0 +1,259 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+} */
+
+#mark_design{
+    border-radius: 5% !important; 
+    max-height: 50px !important;
+  }
+  #mark_profile{
+    padding: 0% !important;
+    margin: 0% !important;
+  }
+  #mark_prof_head_nav{
+    /* background-color: #c5cecce3; */
+    background-color: rgb(67, 170, 235) !important;
+    /* color: rgb(241, 242, 243) !important; */
+  }
+  #mark_prof_head_nav_card{
+    /* background-color:rgb(178, 181, 182); */
+    box-shadow:  -17px -12px -18px -2px;
+    color:whitesmoke !important;
+    /* background-color: rgba(67, 171, 235, 0.616) !important; */
+    background: linear-gradient(to right, #00c5fb9c 0%, #0253cc7a 100%) !important;
+  
+    border-radius: 10px;
+    
+  }
+  #mark_prof_head_nav_card a:link{
+    color:rgb(194, 8, 8) !important;
+    background: linear-gradient(-45deg, rgba(243, 43, 43, -0.84), rgba(255,255,255,0.25));
+  }
+  #mark_prof_head_nav_card a:hover{
+    color:rgb(247, 8, 8) !important;
+    background-color: rgb(228, 209, 228);
+    border-radius: 2px;
+   
+  }
+  #mark-card{
+    /* background-color: rgb(41, 171, 247) !important; */
+    /* background-color: rgb(243, 79, 99) !important; */
+    box-shadow:  -17px -12px -18px -2px;
+    background: linear-gradient(-45deg, #00c5fb9c 0%, #0253cc7a 100%);
+  }
+  #mark_prof_head_nav_card:hover .a{
+    border-radius: 2% !important;
+    
+    background-color:green !important;
+    
+  }
+
+  .sticky-bar{
+    background-color: #fff;
+     border-bottom: 1px solid #ededed;
+    display: flex;
+    margin: -30px -30px 30px;
+    padding: 10px;
+    position: fixed; 
+    z-index:500;
+    
+    
+  }
+  #mark-design-dash-cards{
+    outline:medium none;
+   box-shadow:  -4px 5px 8px 2px;
+   background-color: #EAF2F8  !important;
+   border-radius: 10px;
+   padding-top: 10px;
+   border-color:#3d9be7f1; 
+   opacity:0.9;
+  }
+  .mark-design-dash-cards{
+    outline:medium none;
+   box-shadow:  -4px 5px 8px 2px;
+   background-color: #EAF2F8  !important;
+   border-radius: 10px;
+   padding-top: 10px;
+   border-color:#3d9be7f1; 
+   opacity:0.9;
+  }
+  /* #mark-design-dash-debtor-cards{
+    outline:medium none;
+   box-shadow:  -4px 5px 8px 2px;
+   background-color: rgb(131, 167, 233) !important;
+   border-radius: 10px;
+   padding-top: 10px;
+   border-color:#f5361d98; 
+   opacity:0.9;
+   
+   
+  
+  } */
+  #mark-design-dash-cards-list{
+   box-shadow:  -4px 5px 8px 2px;
+   background-color: rgb(131, 167, 233) !important;
+   /* background: linear-gradient(145deg, rgba(30, 14, 119, -0.178), rgba(203, 217, 229, 0.95)); */
+   /* background: linear-gradient('<?php echo($degree)?>', '<?php echo(col1)?>', '<?php echo($col2)?>'); */
+
+   /* border-style:groove; */
+   border-radius: 10px;
+   padding-top: 10px;
+   border:dashed;
+   border-color:#f5361d98; 
+   opacity:0.9;
+   overflow-y: auto;
+   height:150px;
+  }
+
+   #mark_design_table_transaction{
+     overflow-x: auto;
+   }
+   #mark_design_table_th{
+    background-color: #5499C7 !important;
+     
+     color: whitesmoke !important;
+   }
+ 
+  #mark-design-dash-form{
+    box-shadow:  7px 8px 1px 5px;
+    background-color: rgba(199, 224, 208, 0.945) !important;
+    background: linear-gradient(-45deg, rgba(0,0,0,0.22), rgba(255,255,255,0.25));
+    /* border-style:groove; */
+    border-radius: 10px;
+    padding-top: 10px;
+    
+   
+   }
+
+  #mark-body-main{
+    /* padding-top: 30px; */
+    overflow-y:auto;
+    overflow-x: auto;
+    display: inline-flex;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: calc(100% - 30px);
+    /* width: 100%; */
+    background-color: rgba(233, 239, 241, 0.897);
+    border-radius: 18px;
+    box-shadow:-1px 12px 16px;
+    position:relative;
+    z-index: 600px;
+   
+  }
+  #mark-body-row-content{
+    position: absolute;
+    height: calc(100% - 30px);
+    width: 100%;
+    overflow-y: auto;
+  }
+
+  #mark_page_menu{
+    position:sticky !important;
+    max-height: 200px;
+    background-color:  #FCF3CF ;
+    /* background: linear-gradient(-45deg, rgba(243, 43, 93, 0.94), rgba(255,255,255,0.25)); */
+    border-radius: 5px;
+  }
+  
+  #mark_prof_head_nav_card.li{
+    border-radius: 10px;
+    background-color: #a85b1398;
+  }
+
+
+
+
+
+
+  .blinking{
+    animation:blinkingText 1.2s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: #000;    }
+    49%{    color: #000; }
+    60%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: #000;    }
+}
+
+.strike-through {
+  text-decoration: line-through;
+}
+/* .underline {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+} */
+
+.ulg_tool_box{
+  overflow-y:scroll;
+  height: 400px;
+ 
+}
+.ulg_tool_box.button{
+  box-shadow:8px 12px 16px;
+}
+
+/* #mark_reminders{
+  max-width: 800px;
+  max-height: 500px;
+  
+} */
+
+.reminder_table{
+
+  overflow-x: auto;
+  overflow-y: auto;
+}
+ .reminder_form{ 
+  margin-left: 0px;
+  height: 300px;
+  overflow-y: auto;
+} 
+
+.btn3d{
+  transition:all .08s linear;
+  position:relative;
+  outline:medium none;
+  /* -moz-outline-style:none; */
+  border:0px;
+  margin-right:10px;
+  margin-top:15px;
+  box-shadow:0 0 0 1px #0d064b inset, 0 0 0 2px #230ba80e inset, 0 8px 0 0 #23118a81, 0 8px 0 1px rgba(0,0,0,0.4), 0 8px 8px 1px rgba(0,0,0,0.5);
+  /* background-color:#1d29d677 !important; */
+  /* background: linear-gradient(-45deg, #00c5fb9c 0%, #0253cc7a 100%)!important; */
+}
+.btn3d:focus {
+  outline:medium none;
+  /* -moz-outline-style:none; */
+  background-color: rgb(49, 248, 9) !important;
+}      bn
+.btn3d:active {
+  top:9px;
+  background-color: rgb(49, 248, 9) !important;
+}
+
+#legend_style{
+  color:#d6771d !important;
+  /* background-color: aqua; */
+  padding-top: 20px;
+}
+
+.edit_profile{
+  outline:medium none;
+   box-shadow:  -4px 5px 8px 2px;
+   background-color: rgb(34, 187, 60) !important;
+   /* background: linear-gradient(145deg, rgba(30, 14, 119, -0.178), rgba(203, 217, 229, 0.95)); */
+   /* background: linear-gradient('<?php echo($degree)?>', '<?php echo(col1)?>', '<?php echo($col2)?>'); */
+
+   /* border-style:groove; */
+   /* border-radius: 10px; */
+   padding-top: 5px;
+   border:dashed;
+   border-color:#f5361d98; 
+   opacity:0.9;
+}

@@ -1,0 +1,63 @@
+.anyClass {
+    max-height:500px !important;
+    min-height: 300px !important;
+    overflow-y: scroll;
+    padding-top: 0px;
+    background-color:rgb(245, 244, 239);
+  }
+
+  #chat_content{
+     /* margin-top: 4px;  */
+    color: rgb(22, 21, 22);
+     /* float: left;  */
+    font-family: oswald;
+    height:150px;
+    font-size: 18px;
+    
+  }
+  
+  
+  .card{
+    margin: 0px;
+  }
+  #chat_bubble{
+      float:left;
+      margin: 2px 0 0 5px;
+      border-radius: 50% !important;
+      background-color: green;
+   
+
+  }
+  #chat_btn {
+  /* display: none; Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: rgb(20, 238, 92); /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 20px; /* Some padding */
+  border-radius: 100px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+  }
+  #myForm {
+    display: none;
+    
+    color:rgb(32, 31, 31) !important;
+    position: fixed;
+    bottom: 0;
+   padding: 0px;
+    border-style: outset;
+    max-height: 600px !important; 
+     right: 15px; 
+    border-radius: 10px;
+    margin-top: 0px;
+    border: 1px solid #fc1313;
+    background-color: rgb(185, 207, 183);
+    /* z-index: 99; */
+    
+  }
+  
